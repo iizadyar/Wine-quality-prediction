@@ -43,7 +43,8 @@ Metric:
 
 ## Visualization
 
-![Classification Accuracy Comparison](figures/classification_accuracy_comparison.png)
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/e1b9a903-6972-4746-acf0-c6ccc2b97835" />
+
 
 ## Requirements
 
